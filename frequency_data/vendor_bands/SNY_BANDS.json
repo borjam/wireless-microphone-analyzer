@@ -71,6 +71,8 @@
         { "label": "UC25-Band     (536 - 608MHz)" , "start_freq": 536125, "stop_freq": 607875, "details": "Sony URX-S03D UC25-Band (536 - 608MHz)" , "band": "SNY_UWP-D_UC25-BAND" },
         { "label": "UC30-Band-1 (566 - 608MHz)" , "start_freq": 566125, "stop_freq": 607875, "details": "Sony URX-P03 UC30-Band-1 (566 - 608MHz)" , "band": "SNY_UWP-D_UC30-BAND-1" },
         { "label": "UC30-Band-2 (614 - 638MHz)" , "start_freq": 614125, "stop_freq": 637875, "details": "Sony URX-P03 UC30-Band-2 (614 - 638MHz)" , "band": "SNY_UWP-D_UC30-BAND-2" },
-        { "label": "UC42-Band     (638 - 698MHz)" , "start_freq": 638125, "stop_freq": 697875, "details": "Sony URX-P03 UC42-Band (638 - 698MHz)" , "band": "SNY_UWP-D_UC42-BAND" }
+        { "label": "UC42-Band     (638 - 698MHz)" , "start_freq": 638125, "stop_freq": 697875, "details": "Sony URX-P03 UC42-Band (638 - 698MHz)" , "band": "SNY_UWP-D_UC42-BAND" },
+        { "label": "CE21-Band (470 - 542MHz)" , "start_freq": 470025, "stop_freq": 542000, "details": "Sony URX-P03 K21 (470 - 542MHz)" , "band": "SNY_UWP-D_CE21-BAND" },
+        { "label": "CE33-Band     (566 - 630MHz)" , "start_freq": 566025, "stop_freq": 630000, "details": "Sony URX-P03 K33 (566 - 630MHz)" , "band": "SNY_UWP-D_CE33-BAND" }
     ]}
 ]}
